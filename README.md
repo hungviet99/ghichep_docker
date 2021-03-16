@@ -9,3 +9,4 @@ Ghi chép tài liệu tìm hiểu về docker.
 3. [Docker Engine](./docs/3.Docker_Engine.md)
 4. [Images](./docs/4.Images.md)
 5. [Container](./docs/5.Containers.md)
+6. [Containerizing an app](./docs/6.Containerizing_an_app.md)
