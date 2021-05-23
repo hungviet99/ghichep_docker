@@ -1,6 +1,6 @@
 # Docker
 
-Ghi chép tài liệu tìm hiểu về docker. 
+Ghi chép tài liệu tìm hiểu về docker
 
 ## Mục lục
 
